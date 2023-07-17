@@ -2,9 +2,9 @@
   "name": "node-make-an-outbound-call-tutorial",
   "version": "1.0.0",
   "dependencies": {
-    "@freeclimb/sdk": "^1.0.0",
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.1.0",
-    "express": "^4.17.3"
+    "@freeclimb/sdk": "^3.4.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
   }
 }
