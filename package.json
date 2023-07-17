@@ -1,6 +1,9 @@
 {
   "name": "node-make-an-outbound-call-tutorial",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node makeACall.js"
+  },
   "dependencies": {
     "@freeclimb/sdk": "^3.4.0",
     "body-parser": "^1.20.2",
