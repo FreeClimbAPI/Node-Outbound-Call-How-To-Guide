@@ -1,6 +1,6 @@
-# Node - Make Outbound Call Tutorial
+# Node - Make Outbound Call How-To Guide
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/how-to-make-an-outbound-call#section-nodejs). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this how-to guide on [FreeClimb.com](https://docs.freeclimb.com/docs/how-to-make-an-outbound-call#section-nodejs). Specifically, the project will:
 
 - Creates an outgoing call to the `to` number
 
@@ -8,7 +8,7 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
-## Setting up the Tutorial
+## Setting up the how-to guide
 
 1. Install the node packages necessary using command:
 
@@ -32,7 +32,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    https://YOUR-URL.ngrok.io/incomingCall
    ```
 
-## Runnning the Tutorial
+## Runnning the how-to guide
 
 1. Run the application using command:
 
